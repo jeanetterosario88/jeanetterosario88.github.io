@@ -9,7 +9,7 @@ permalink:  why_i_decided_to_study_software_engineering
 
 Growing up, I was the farthest thing from a computer wizard. I was a full-fledged bunhead: a pre-professional ballerina. I would run from school every day to make my 4 o'clock ballet class. On my free-time, (and that was a rare occurence, considering how time-consuming my ballet classes were,) I would watch movies, visit museums, go to concerts. I loved and appreciated fine art, and all types of performing art.
 
-I was also, howvever, an enthusaistic academic student, who especially excelled in math and science. I loved using the logical part of my brain to break down problems. I loved finding creative ways to find solutions. I saw anything I didn't understand as not only a challenge, but an opportunity. So when my fellow bunheads started to get homeschooled to devote more time to ballet, I didn't. I enjoyed going to school, as much as I loved ballet.
+I was also, however, an enthusaistic academic student, who especially excelled in math and science. I loved using the logical part of my brain to break down problems. I loved finding creative ways to find solutions. I saw anything I didn't understand as not only a challenge, but an opportunity. So when my fellow bunheads started to get homeschooled to devote more time to ballet, I didn't. I enjoyed going to school, as much as I loved ballet.
 
 Many years laters, here I am, and I have to say the right and left sides of my brain, figuratively-speaking, are still pursuing their own, seperate passions. I devoted most of my time after college to become an actor and filmmaker. To this day, my favorite pastimes include going to plays, art galleries, museums. And though I don't dance ballet professionally, I love a good dancefloor session.
 
