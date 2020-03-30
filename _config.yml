@@ -1,11 +1,11 @@
 # Site settings
-author: Jeanette Rosario
-title: 
+author: Jean Ro
+title: My Flatiron Journey
 header-img: img/home-bg.png
 email: jeanetterosario88@gmail.com
-copyright_name: Jeanette Rosario
+copyright_name: Jean Ro
 description: > # this means to ignore newlines until "baseurl:"
-  
+  To and Through
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jeanetterosario88
