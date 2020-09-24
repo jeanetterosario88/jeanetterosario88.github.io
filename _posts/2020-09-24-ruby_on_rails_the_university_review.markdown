@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Ruby on Rails: The University Review"
-date:       2020-09-24 19:18:22 +0000
+title:      "Ruby on Rails - The University Review"
+date:       2020-09-24 15:18:23 -0400
 permalink:  ruby_on_rails_the_university_review
 ---
 
