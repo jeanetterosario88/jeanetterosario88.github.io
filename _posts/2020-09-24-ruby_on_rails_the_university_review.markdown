@@ -14,9 +14,9 @@ One concept that really stuck out to me in this project was the concept of Activ
 
 A "where" query for example goes into your database and returns an ActiveRecord::Relation, which is similar to an array, but it's essentially a collection of objects. 
 
-I can use that "where" method in my Review model, to try to find the instance of a Review with the highest rating. My Controller Index action, for example, can then have an instance variable such as @review equal to that method I made in my model Then I can then in my Index View, I can access that instance variable. However that variable, #review, is not an instance of a review with the highest_rating; it is an ActiveRecord::Relation collection. It is easily a "promise" to retreive that review, but not the review itself.
+I can use that "where" method in my Review model, to try to find the instance of a Review with the highest rating. My Review_Controller - Index action, for example, can then have an instance variable such as @review equal to that method I made in my model. Then in my my Review/Index View, I can access that instance variable. However that variable, @review, is not an instance of a review with the highest_rating; it is an ActiveRecord::Relation collection. It is easily a "promise" to retrieve that review, but not the review itself.
 
-Now if I try to access that review in this collection of objects, I would have to append .last or .first or .find(id) to return a single object.
+Now if I want to access that review, the review with the highest rating, in this collection of objects, I would have to append .last or .first or .find(id) to return a single object.
 
 It really took working through my program over and over again and lots of troubleshooting to realize this concept. Once I did, I was able to easily access objects in my views.
 * 
