@@ -12,7 +12,7 @@ Why **Redux**?
 As we know, in React, components come with a built-in state object, where you can store its values. However, as applications get larger and more complex, and we have more and more components, we then start getting a complex web of properties and state that becomes difficult to work with. With Redux, we can store all of the necessary data in our application in one place, one state, one JavaScript object separate from our components.
 
 Where is this Javascript object you speak of, with the entire state?
-A **Redux "store"** stores the entire state of the app in an object. To create a store, we use the **createStore() **function.
+A **Redux "store"** stores the entire state of the app in an object. To create a store, we use the** createStore** function.
 
 How does a Component get access to the store, with the data it needs?
 There is a special package specifically for connecting your redux store to your React. **React-Redux**.  You must import this into any component that you will connect to redux. Then you use the middleware:  **Provider**, which makes it so that your entire application can access any data it needs from the store. We then use the **connect()** function from React-Redux, and supply a **mapStateToProps** function to pull out the data you need.
