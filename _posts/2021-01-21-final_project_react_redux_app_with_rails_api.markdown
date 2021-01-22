@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Final Project: React/Redux App with Rails API"
-date:       2021-01-22 02:05:37 +0000
+title:      "React/Redux Concepts in Layman's Terms"
+date:       2021-01-21 21:05:38 -0500
 permalink:  final_project_react_redux_app_with_rails_api
 ---
 
