@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Javascript & Rails: My Hiking Planner Site"
-date:       2020-11-21 23:43:56 +0000
+title:      "Javascript, Rails API and JSON Serialization"
+date:       2020-11-21 18:43:57 -0500
 permalink:  javascript_and_rails_my_hiking_planner_site
 ---
 
