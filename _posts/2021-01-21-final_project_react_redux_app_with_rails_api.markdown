@@ -21,7 +21,7 @@ mapStateToProps? What is that?
 As the first argument passed in to connect(), mapStateToProps is used for selecting which part of the data from the store the connected Component needs.
 
 Great, so how about changing State?
-As we know, a component's state, unlike a component's props, should be able to change during a component's life cycle. Giving a mapDispatchToProps as a second argument to connect() allows you to specify which actions your component might want to dispatch. It passes relevant **Action Creators** onto your Component. 
+As we know, a component's state, unlike a component's props, should be able to change during a component's life cycle. Giving a **mapDispatchToProps** as a second argument to connect() allows you to specify which actions your component might want to dispatch. It passes relevant **Action Creators** onto your Component. 
 
 Huh? Action Creator? You mean an Action? 
 An Action Creator is a function that returns* an action. It's also called an Action Object Creator Function. An Action Creator is used to generate an Action. An **Action**, however, is just an object with information on what you want to do; it's simply an object with a Type and a Payload. For example, an action would be {type: add Todo, payload: {"Work harder"}} The action is "dispatched" to the Redux store which holds the state for our App, and that is where a **reducer**  handles the action. 
