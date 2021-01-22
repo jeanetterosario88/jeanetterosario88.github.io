@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Ruby on Rails - The University Review"
+title:      "Ruby on Rails and ActiveRecord Relations"
 date:       2020-09-24 15:18:23 -0400
 permalink:  ruby_on_rails_the_university_review
 ---
