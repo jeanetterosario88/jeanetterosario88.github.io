@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My Full-Scale Sinatra Application"
+title:      "Planning My Full-Scale Sinatra Application"
 date:       2020-07-19 19:49:55 -0400
 permalink:  my_full-scale_sinatra_application
 ---
